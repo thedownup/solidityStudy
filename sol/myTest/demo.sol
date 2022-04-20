@@ -2,8 +2,5 @@
 pragma solidity >=0.5.0 <0.8.9;
 
 contract demoP {
-
-    string
-
-
+    string name = "test";
 }
