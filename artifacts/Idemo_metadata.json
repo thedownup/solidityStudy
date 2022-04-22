@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "read",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "totalSupply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"sol\\myTest\\demo.sol": "Idemo"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"sol\\myTest\\demo.sol": {
+			"keccak256": "0x89df29973d62394f200ffe42701ae0a4287a222d3a4069b485e00e09a83323d9",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://79def7979bfd4594e3713fb88e9d45f432d92f36efc6822fae9258227c451ab0",
+				"dweb:/ipfs/QmeWe77cVKCQhDc2vUG9tAFQwRQCbJpUZtGxe2QVHnyjXD"
+			]
+		}
+	},
+	"version": 1
+}

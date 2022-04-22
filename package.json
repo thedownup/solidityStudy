@@ -1,7 +1,7 @@
 {
   "name": "solidityStudy",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme\r A",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thedownup/solidityStudy/issues"
   },
-  "homepage": "https://github.com/thedownup/solidityStudy#readme"
+  "homepage": "https://github.com/thedownup/solidityStudy#readme",
+  "directories": {
+    "test": "test"
+  }
 }
