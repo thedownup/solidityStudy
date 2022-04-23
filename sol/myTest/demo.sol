@@ -6,4 +6,11 @@ contract Test {
         return a + b;
     }
 
+    struct Person {
+        string name;
+        int age;
+    }
+
+    Person public p = Person("1", 1);
+
 }
