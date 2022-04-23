@@ -19,5 +19,8 @@
   "homepage": "https://github.com/thedownup/solidityStudy#readme",
   "directories": {
     "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
   }
 }
